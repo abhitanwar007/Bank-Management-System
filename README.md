@@ -5,7 +5,7 @@
  <img width=200px height=200px src="https://thumbs.dreamstime.com/b/bank-icon-vector-sign-symbol-isolated-white-background-bank-logo-concept-bank-icon-vector-isolated-white-background-134167171.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Bank</h3>
+<h3 align="center">Bank of India</h3>
 
 <div align="center">
 
