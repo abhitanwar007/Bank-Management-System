@@ -70,10 +70,20 @@ Download and Install it your system
 
 
 ## 🚀 Deployment <a name = "deployment"></a>
-- Signup new user
+- Login page
+<img src="https://user-images.githubusercontent.com/76835879/235580241-79229a2c-9b07-4634-a8e6-34c6b9ec1f74.png" height=400>
 
-<img width=200px height=200px src="https://img.freepik.com/premium-vector/realistic-illustration-atm-machine-atm-bank-cash-machine-with-screen-keypad-debit_515532-220.jpg?w=2000" alt="signup">
+- Signup page 1
+<img src="https://user-images.githubusercontent.com/76835879/235580926-bd0d23e9-cd48-4bf5-8fd7-984e9d119f4b.png" height=400>
 
+- Signup page 2
+<img src="https://user-images.githubusercontent.com/76835879/235580992-821dc636-275b-4389-8c0c-95529cd00155.png" height=400>
+
+- Signup page 3
+<img src="https://user-images.githubusercontent.com/76835879/235581007-b125f4fc-f26a-4f77-8282-0723cd136a92.png" height=400>
+
+- ATM Machine
+<img src="https://user-images.githubusercontent.com/76835879/235581726-e254830a-2a09-4df6-b89a-79c9727ea490.png" height=400>
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [MySQL](https://www.mysql.com/) - Database
